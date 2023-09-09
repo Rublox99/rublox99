@@ -11,7 +11,7 @@
 
 - You can check my humble, experimental and objective portfolio here at 🕵🏻‍♂️: [My Super Portfolio](ruben-almendares.online)
 
-- I also find myself a bit social, so you are always open to reach me through my email **camiloalmendarez47@gmail.com** *-*📧
+- Kinda relative that I find myself a bit social, so you are always open to reach me through my email **camiloalmendarez47@gmail.com** *-*📧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
