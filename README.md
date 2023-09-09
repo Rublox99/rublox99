@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/camiloalmendar2" target="blank"><img src="https://img.shields.io/twitter/follow/camiloalmendar2?logo=twitter&style=for-the-badge" alt="camiloalmendar2" /></a> </p>
 
-- 🔭 I’m currently working at [AHPROCAFE as a technologist](https://www.ahprocafe.hn)
+- I’m currently working at [AHPROCAFE](https://www.ahprocafe.hn) as a technologist 🔭
 
-- 👨‍💻 I’m currently learning: **MERN Stack & UI Development.**
+- Currently learning 👨‍💻: **MERN Stack & UI Development.**
 
 - 👨‍⚖️ And part of the [Oracle Next Program](https://www.oracle.com/ar/education/oracle-next-education/) :D
 
-- 🕵🏻‍♂️ You can check my humble, experimental and objective portfolio here at: [My Super Portfolio](ruben-almendares.online)
+- You can check my humble, experimental and objective portfolio here at 🕵🏻‍♂️: [My Super Portfolio](ruben-almendares.online)
 
-- 📧 I find myself a bit social, so you are always open to reach me through my email **camiloalmendarez47@gmail.com** *-*
+- I also find myself a bit social, so you are always open to reach me through my email **camiloalmendarez47@gmail.com** *-*📧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
