@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at [AHPROCAFE as a technologist](https://www.ahprocafe.hn)
 
-- 👨‍💻 I’m currently learning **MERN Stack, UI Development and Team Working**
+- 👨‍💻 I’m currently learning: **MERN Stack & UI Development.**
 
-- 👨‍⚖️ And part of [ONE Program](https://www.oracle.com/ar/education/oracle-next-education/)
+- 👨‍⚖️ And part of the [Oracle Next Program](https://www.oracle.com/ar/education/oracle-next-education/) :D
 
-- 🕵🏻‍♂️ You can check my portfolio [ruben-almendares.online](ruben-almendares.online)
+- 🕵🏻‍♂️ You can check my humble, experimental and objective portfolio here at: [My Super Portfolio](ruben-almendares.online)
 
-- 📧 I have my contact links, but my main is through **camiloalmendarez47@gmail.com**
+- 📧 I find myself a bit social, so you are always open to reach me through my email **camiloalmendarez47@gmail.com** *-*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
