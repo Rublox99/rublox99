@@ -3,15 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/camiloalmendar2" target="blank"><img src="https://img.shields.io/twitter/follow/camiloalmendar2?logo=twitter&style=for-the-badge" alt="camiloalmendar2" /></a> </p>
 
-- 🔭 I’m currently working for [Ares-Sun](https://www.ares-telemetrics.com)
+- 🔭 I’m currently working as a Freelancer
 
-- 🌱 On learning process: **C# & Vue**
+- 🌱 On learning process: **Flutter & Framer**
 
 - 👨‍💻 Graduated ONE: [Oracle Next Education - G5](https://app.aluracursos.com/program/certificate/7b995826-e74a-49f0-82d7-9825620c872d)
+- 👨‍💻 Computer Sciences Engineer: [Universidad Nacional Autónoma de Honduras](https://www.unah.edu.hn)
 
-- 🕵🏻‍♂️ On development: **Personal Portfolio 2.0**
+- 💫 Finally completed: [Personal Portfolio 2.0](https://app.aluracursos.com/program/certificate/7b995826-e74a-49f0-82d7-9825620c872d)
 
-- 📫 While my updated portfolio it's been developed, you can reach through my "vintage" one: [rubendev.online](rubendev.online)
+- 📫 My old portfolio just for nostalgia and to reflect on the path taken: ['Vintage' Portfolio](rubendev.online)
 
 - ⚡ Fun fact: **I'm in love with the Warhammer 40K and World of Warcraft universes :D**
 
