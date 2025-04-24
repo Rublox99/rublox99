@@ -10,7 +10,7 @@
 - 👨‍💻 Graduated ONE: [Oracle Next Education - G5](https://app.aluracursos.com/program/certificate/7b995826-e74a-49f0-82d7-9825620c872d)
 - 👨‍💻 Computer Sciences Engineer: [Universidad Nacional Autónoma de Honduras](https://www.unah.edu.hn)
 
-- 💫 Finally completed: [Personal Portfolio 2.0](https://app.aluracursos.com/program/certificate/7b995826-e74a-49f0-82d7-9825620c872d)
+- 💫 Finally completed: [Personal Portfolio 2.0](https://this-is-ruben.com)
 
 - 📫 My old portfolio just for nostalgia and to reflect on the path taken: ['Vintage' Portfolio](rubendev.online)
 
