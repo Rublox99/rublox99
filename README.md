@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/camiloalmendar2" target="blank"><img src="https://img.shields.io/twitter/follow/camiloalmendar2?logo=twitter&style=for-the-badge" alt="camiloalmendar2" /></a> </p>
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a Backend Developer at [ITLG](https://itlg.io/)
 
-- 🌱 On learning process: **Flutter & Framer**
+- 🌱 On learning process: **Oracle Cloud & Oracle Integration Services**
 
 - 👨‍💻 Graduated ONE: [Oracle Next Education - G5](https://app.aluracursos.com/program/certificate/7b995826-e74a-49f0-82d7-9825620c872d)
 - 👨‍💻 Computer Sciences Engineer: [Universidad Nacional Autónoma de Honduras](https://www.unah.edu.hn)
